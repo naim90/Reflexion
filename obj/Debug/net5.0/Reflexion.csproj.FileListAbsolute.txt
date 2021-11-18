@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Reflexion\bin\Debug\net5.0\Reflexion.exe
+C:\Users\Admin\source\repos\Reflexion\bin\Debug\net5.0\Reflexion.deps.json
+C:\Users\Admin\source\repos\Reflexion\bin\Debug\net5.0\Reflexion.runtimeconfig.json
+C:\Users\Admin\source\repos\Reflexion\bin\Debug\net5.0\Reflexion.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Reflexion\bin\Debug\net5.0\Reflexion.dll
+C:\Users\Admin\source\repos\Reflexion\bin\Debug\net5.0\ref\Reflexion.dll
+C:\Users\Admin\source\repos\Reflexion\bin\Debug\net5.0\Reflexion.pdb
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.dll
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\ref\Reflexion.dll
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.pdb
+C:\Users\Admin\source\repos\Reflexion\obj\Debug\net5.0\Reflexion.genruntimeconfig.cache
